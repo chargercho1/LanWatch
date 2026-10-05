@@ -1,0 +1,9 @@
+out/
+build/
+classes/
+*.jar
+*.exe
+*.apk
+*.idsig
+*.keystore
+*.log

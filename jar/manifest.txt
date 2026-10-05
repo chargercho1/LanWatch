@@ -1,0 +1,1 @@
+Main-Class: app.lanwatch.server.Main
